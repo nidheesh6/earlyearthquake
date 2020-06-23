@@ -14,7 +14,7 @@ Real time seismic sensor streaming platform to detect and notify about earthquak
 ## Introduction
 
 ## Architecture
-![Architecture](https://github.com/nidheesh6/earlyearthquake/documents/pipeline.png)
+![Architecture](https://github.com/nidheesh6/earlyearthquake/blob/master/documents/pipeline.png)
 
 ## Dataset
 
