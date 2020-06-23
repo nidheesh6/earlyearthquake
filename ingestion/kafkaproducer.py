@@ -11,7 +11,7 @@ class KafkaProducer:
         """
             initialize bootstrap_servers,topicname for kafka
         """
-        self.bootsrap_servers = ['localhost:9092']
+        self.bootstrap_servers = ['localhost:9092']
         self.topic_name = 'pressure_sensor'
         self.producer = kafka.KafkaProducer(bootstrap_servers=self.bootstrap_servers)
 
