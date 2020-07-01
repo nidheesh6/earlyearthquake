@@ -4,7 +4,7 @@ Real time seismic sensor streaming platform to detect and notify about earthquak
 
 [Link](https://docs.google.com/presentation/d/1QrUJkKewzaLInuhdTyb9JTEMNlFi4kaIZksZlDQ-o4Y/edit?usp=sharing) to my presentation.
 
-![Dashboard](https://github.com/nidheesh6/earlyearthquake/blob/master/documents/newplot(2).png)
+![Dashboard](https://github.com/nidheesh6/earlyearthquake/blob/master/documents/newplot (2).png)
 <hr/>
 
 ## How to install and get it up and running
