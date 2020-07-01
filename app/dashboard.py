@@ -13,7 +13,7 @@ app = dash.Dash(__name__)
 #app.css.append_css(
 #    {'external_url': 'https://codepen.io/amyoshino/pen/jzXypZ.css'})
 
-conn = psycopg2.connect(host='ec2-18-232-24-132.compute-1.amazonaws.com',database='earthquake', user='postgres', password='nidheesh')
+conn = psycopg2.connect(host='ec2-18-232-24-132.compute-1.amazonaws.com',database='earthquake', user='postgres', password='********')
 cur = conn.cursor()
 
 
@@ -78,7 +78,7 @@ def update_map(n):
             'name': map_data['country_code'],
             'title': 'earthquake  activity for the last 3 seconds',
             'mapbox': {
-                'accesstoken':'pk.eyJ1IjoibmlkaGVlc2g2IiwiYSI6ImNrYzBxajRvMTBhYzkycW56a3YxeW05ajEifQ.Zzv17cS-J_hwhrI47pYyZg',
+                'accesstoken':'*********************************',
                 'center': {
                     'lon':-98.49,
                     'lat':18.29
